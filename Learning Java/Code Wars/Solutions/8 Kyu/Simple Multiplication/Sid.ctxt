@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Sid
+comment0.text=\r\n\ First\ test\ with\ Java\ from\ a\ Codewars\ problem\r\n\r\n\ @author\ Joshua\ McGregor\r\n\ @version\ 3/19/2023\r\n
+comment1.params=n
+comment1.target=int\ simpleMultiplication(int)
+numComments=2
