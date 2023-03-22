@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Payroll
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Payroll\ here.\r\n\r\n\ @author\ Joshua\ McGregor\r\n\ @version\ 3/21/2023\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ inputWeeklyHours()
+comment3.params=
+comment3.target=void\ readHourWages()
+comment4.params=
+comment4.target=void\ calculateGrossPay()
+comment5.params=
+comment5.target=void\ calculateTaxesAndNetPay()
+comment6.params=
+comment6.target=void\ printChecks()
+numComments=7

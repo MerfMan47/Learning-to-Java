@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=SumNumbers
+comment0.text=\r\n\ WSums\ up\ numbers\ in\ a\ sequence\r\n\r\n\ @author\ Joshua\ McGregor\r\n\ @version\ 3/21/2023\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=highestNum
+comment2.target=int\ sumNums(int)
+comment3.params=lowestNum\ highestNum
+comment3.target=int\ sumNums(int,\ int)
+comment4.params=lowestNum\ highestNum\ increment
+comment4.target=double\ sumNums(double,\ double,\ double)
+numComments=5
